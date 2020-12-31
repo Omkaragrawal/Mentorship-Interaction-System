@@ -1,8 +1,6 @@
 ![Node.js CI](https://github.com/Omkaragrawal/Mentorship-Interaction-System/workflows/Node.js%20CI/badge.svg?branch=master)
 <br>
 
-<img src="/logo (1).png"  height = "70">
-
 
 # **Mentorship Interaction System**
 
